@@ -1,13 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="$c.XFqFV/e}vC~-)=8M?" x="0" y="0"></block><block type="device_forever" id="r!)@~SQIDN{Vl8~P;uC3" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="p6`k|^zu#!JYDPSn_r*x"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="$c.XFqFV/e}vC~-)=8M?" x="0" y="0"></block><block type="device_forever" id="r!)@~SQIDN{Vl8~P;uC3" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id=":pP:nw9,xugSn,b}NoOV"><field name="LEDS">`
         . # . # . 
-        # # . # # 
-        # # . # # 
-        . . . . . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
         . . # . .
-        `</field><next><block type="device_show_leds" id="Zdw1@;h-5vyJDQP(*9a-"><field name="LEDS">`
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . .
-        `</field></block></next></block></statement></block></xml>
+        `</field><next><block type="basic_show_icon" id="4]nt+#RmYQ(=j92ZQsQq"><field name="i">IconNames.Skull</field><next><block type="device_print_message" id="gxYVWliP!ig+a55nKU?7"><value name="text"><shadow type="text" id="KPM`Aib3~aB:cw,%z_zs"><field name="TEXT">LETSS GOOO ;)</field></shadow></value><next><block type="playMelody" id="coEXxb-VSZl%L0o|k#Jo"><value name="melody"><shadow type="melody_editor" id="RyZFq{A{vl=FUlsx4#*="><field name="melody">"E A D G B F C5 C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="rTYGt`}D5LsI-W%9Qda2"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">185</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
